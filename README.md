@@ -10,3 +10,4 @@ Autoren
 
 Compilieren
 --------------------
+Zum Compilieren benötigen Sie einen C++-Compiler
